@@ -55,9 +55,6 @@
 
 ###
 
-<div align="center">
 ![eduadz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduadz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-![eduadz's Stats](https://github-readme-stats.vercel.app/api?username=eduadz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-</div>
-
+![eduadz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduadz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ###
