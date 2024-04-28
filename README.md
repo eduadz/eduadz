@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 Graduando em Ciência da Computação | Universidade Federal de Viçosa</h4>
+<h3 align="left">🎓 Graduando em Ciência da Computação | Universidade Federal de Viçosa</h3>
 
 ###
 
@@ -44,14 +44,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-soares-89b97522b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/eduardo.s.filho@ufv.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-soares-89b97522b/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eduardo.s.filho@ufv.br)
 
 ###
 
