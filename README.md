@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Tecnologias que trabalho:</h3>
 
 ###
